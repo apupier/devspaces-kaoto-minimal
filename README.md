@@ -4,4 +4,8 @@ This repository shows the minimal setup to have Red Hat Developer Sandbox setup 
 
 It does not cover execution. Another repository example will be provided later with more Camel tooling.
 
-Open the demo.camel.yaml file and enjoy the view!
+After opening the repository in Red Hat OpenShift Dev Spaces, wait for the Kaoto extension to be installed. You can notice that it is mentioning `installing` during this waiting phase.
+
+![](./doc/wait-installation.png)
+
+Then open the demo.camel.yaml file and enjoy the view!
